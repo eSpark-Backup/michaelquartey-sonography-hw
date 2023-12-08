@@ -1,0 +1,38 @@
+Change Component Footprint: Designator=L1 Old Footprint=MDA1040-470M New Footprint=SMMS1050-470M
+Change Component Designator: OldDesignator=U6 NewDesignator=U?
+Change component parameters: Designator = "L1" ("L1"); Footprint = "MDA1040-470M"; UniqueID = "\HNCARIHZ\YHCWSOSE" ("\HNCARIHZ\YHCWSOSE")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Power-Inductors_SXN-Shun-Xiang-Nuo-Elec-SMMS1050-470M_C149548.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C149548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SXN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SMMS1050-470M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uH"; VariantName = "[No Variations]"
+Added Component: Designator=F1(SMD2018-200)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Resettable-Fuses_TECHFUSE-SMD2018-200_C70152.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item type"; Value = "Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C70152"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Tech Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SMD2018-200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2018"; VariantName = "[No Variations]"
+Added Component: Designator=J2(AFA07-S20FCC-00)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/FFC-FPC-Connectors_JUSHUO-AFA07-S20FCC-00_C262352.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "FPC Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C262352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JUSHUO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AFA07-S20FCC-00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,P=1mm"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C34-1
+Add Pin To Net: Unknown Pin: Pin C34-2
+Added Pin To Net: NetName=NetC1_2 Pin=F1-1
+Added Pin To Net: NetName=+9V Pin=F1-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=3V3 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-12
+Added Pin To Net: NetName=SCL Pin=J2-14
+Added Pin To Net: NetName=SDA Pin=J2-15
+Add Class Member: Failed to add class member : Component C34 22uF
+Added Member To Class: ClassName=U_Power_Section Member=Component F1 SMD2018-200
+Added Member To Class: ClassName=U_Controller_Section Member=Component J2 AFA07-S20FCC-00

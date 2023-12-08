@@ -1,0 +1,10 @@
+Added Component: Designator=J1(Through Hole Pads 2)
+Add component (AddParameter): Name = "Item Type"; Value = "Through Hole Pads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "Through Hole Pads 2"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C34-1
+Add Pin To Net: Unknown Pin: Pin C34-2
+Added Pin To Net: NetName=NetC1_2 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Class Member: Failed to add class member : Component C34 22uF
+Added Member To Class: ClassName=U_Power_Section Member=Component J1 DNP
