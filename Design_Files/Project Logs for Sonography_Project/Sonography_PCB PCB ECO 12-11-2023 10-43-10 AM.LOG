@@ -1,0 +1,45 @@
+Change Component Footprint: Designator=C34 Old Footprint=UV2D220M1010 New Footprint=VKMD1652D220MV
+Change component parameters: Designator = "C34" ("C34"); Footprint = "UV2D220M1010"; UniqueID = "\VHJJXVQU\DNDJALPO" ("\VHJJXVQU\DNDJALPO")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_Ymin-VKMD1652D220MV_C487500.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Electrolytic Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C487500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Ymin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "VKMD1652D220MV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD,D8xL16.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=J1(Through Hole Pads 2)
+Add component (AddParameter): Name = "Item Type"; Value = "Through Hole Pads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "Through Hole Pads 2"; VariantName = "[No Variations]"
+Added Component: Designator=J4(EPS.00.250.NTN)
+Add component (AddParameter): Name = "Category"; Value = "RF / Coaxial Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/7007/eps-00-250-ntn-web-7007077.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/7007/eps-00-250-ntn-web-7007077.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/5089/lemo-connector-selector-5089951.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/5089/lemo-connector-selector-5089951.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "LEMO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EPS.00.250.NTN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=21.34, 10=18.685, 25=17.878, 50=17.3012, 100=16.7246, 250=15.80184, 500=15.34048 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "1561"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1124-1357-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J6(EPS.00.250.NTN)
+Add component (AddParameter): Name = "Category"; Value = "RF / Coaxial Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/7007/eps-00-250-ntn-web-7007077.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/7007/eps-00-250-ntn-web-7007077.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/5089/lemo-connector-selector-5089951.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/5089/lemo-connector-selector-5089951.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "LEMO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "EPS.00.250.NTN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=21.34, 10=18.685, 25=17.878, 50=17.3012, 100=16.7246, 250=15.80184, 500=15.34048 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "1561"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1124-1357-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=NetC35_1 Pin=J4-1
+Added Pin To Net: NetName=RX_IN Pin=J6-1
+Added Member To Class: ClassName=U_Power_Section Member=Component J1 DNP
+Added Member To Class: ClassName=U_Transmitter_Receiver_Section Member=Component J4 EPS.00.250.NTN
+Added Member To Class: ClassName=U_Transmitter_Receiver_Section Member=Component J6 EPS.00.250.NTN
