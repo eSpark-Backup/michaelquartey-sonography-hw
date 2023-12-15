@@ -1,12 +1,12 @@
 Board Information Report
 Filename     : C:\Users\eSpark\Desktop\michaelquartey-sonographydevice-hw\Design_Files\Sonography_PCB.PcbDoc
-Date         : 12/14/2023
-Time         : 7:06:04 PM
+Date         : 12/15/2023
+Time         : 12:50:26 PM
 Time Elapsed : 00:00:00
 
 Routing Information
-    Routing completion, 89.71%
+    Routing completion, 94.65%
     Connections, 243
-    Connections routed, 218
-    Connections remaining, 25
+    Connections routed, 230
+    Connections remaining, 13
 count : 4
