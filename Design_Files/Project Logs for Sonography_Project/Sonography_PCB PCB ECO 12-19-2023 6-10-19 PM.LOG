@@ -1,0 +1,11 @@
+Added Component: Designator=C?(VKMD1652D220MV)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_Ymin-VKMD1652D220MV_C487500.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Electrolytic Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C487500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ymin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VKMD1652D220MV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,D8xL16.5mm"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_Transmitter_Receiver_Section Member=Component C? 22uF
+Added Member To Class: ClassName=U_Transmitter_Receiver_Section Member=Component U7 ICL7667CBAZA
+Added Member To Class: ClassName=U_Transmitter_Receiver_Section Member=Component U11 LM7171AIMX/NOPB
