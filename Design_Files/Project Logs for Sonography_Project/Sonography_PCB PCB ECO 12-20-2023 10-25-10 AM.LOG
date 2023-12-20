@@ -1,0 +1,99 @@
+Added Component: Designator=D2(SOD-323HE)
+Add component (AddParameter): Name = "Average Rectified Current"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Schottky Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Schottky Barrier Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C5336764"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RB558VAM150TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "3000=0.07231, 6000=0.06914, 9000=0.05979, 30000=0.05867, 75000=0.04858, 150000=0.04783 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "30000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "846-RB558VAM150TR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SOD-123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Switching-Diode_JSMSEMI-1N4148W_C917030.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C917030"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JSMSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1N4148W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-123"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SOD-323)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Zener-Diodes_Shandong-Jingdao-Microelectronics-MM3Z3V3_C123917.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C123917"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JSMSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MM3Z3V3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-323"; VariantName = "[No Variations]"
+Added Component: Designator=L3(IND-0201)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Fixed Inductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://search.murata.co.jp/Ceramy/image/img/P02/JELF243C-0021.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://search.murata.co.jp/Ceramy/image/img/P02/JELF243C-0021.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Material"; Value = "Non-Magnetic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "50mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C237384"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LQP03HQ1N6B02D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.16, 10=0.145, 25=0.1236, 50=0.109, 100=0.1, 250=0.09088, 500=0.08544, 1000=0.06545, 2500=0.06181 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = "10GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "LQP03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "27606"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "490-13883-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Frequency"; Value = "500MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.6nH"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(DPAK)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/MOSFETs_GOFORD-5N20A-252_C224101.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Mosfet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C224101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "GOFRD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "5N20A-252"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-252-2(DPAK)"; VariantName = "[No Variations]"
+Added Component: Designator=R13(Res-0603)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Vishay-Intertech-CRCW06033K00FKEAHP_C844164.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C844164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Intertech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW06033K00FKEAHP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=100V Pin=D2-1
+Added Pin To Net: NetName=L_OUT Pin=D2-2
+Added Pin To Net: NetName=O/P_4 Pin=D3-2
+Added Pin To Net: NetName=RX_OUT_P Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=NetAnt1_ANT# Pin=L3-1
+Added Pin To Net: NetName=NetC21_2 Pin=L3-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetC35_2 Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=NetC35_2 Pin=R13-1
+Added Pin To Net: NetName=100V Pin=R13-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=U11-6
+Added Net: Name=NetD3_1
+Added Member To Class: ClassName=U_Power_Section Member=Component D2 RB558VAM150TR
+Added Member To Class: ClassName=U_Transmitter_Receiver_Section Member=Component D3 1N4148W
+Added Member To Class: ClassName=U_Transmitter_Receiver_Section Member=Component D4 MM3Z3V3
+Added Member To Class: ClassName=U_Controller_Section Member=Component L3 1.6nH
+Added Member To Class: ClassName=U_Transmitter_Receiver_Section Member=Component Q1 5N20A-252
+Added Member To Class: ClassName=U_Transmitter_Receiver_Section Member=Component R13 3K
