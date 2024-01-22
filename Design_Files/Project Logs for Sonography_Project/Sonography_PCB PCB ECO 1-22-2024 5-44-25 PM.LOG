@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=-9V Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=NetC10_1 Pin=C10-1
+Removed Pin From Net: NetName=NetC10_2 Pin=C10-2
+Removed Pin From Net: NetName=RXD Pin=J3-3
+Removed Pin From Net: NetName=TXD Pin=J3-4
+Removed Pin From Net: NetName=3V3 Pin=R1-1
+Removed Pin From Net: NetName=NetR4_1 Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R5-2
+Removed Member From Class: ClassName=U_Power_Section Member=R1
+Change component parameters: Designator = "U11" ("U11"); Footprint = "SOIC-8(0.154", 3.90mm Width)"; UniqueID = "\VHJJXVQU\RCJPKOZN" ("\VHJJXVQU\RCJPKOZN")
+Change component parameters (AddParameter): Name = "Category"; Value = "Amplifiers - Op Amps, Buffer, Instrumentation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/6627/lm7171-6627136.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/6627/lm7171-6627136.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/6627/lm7171-6627103.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/6627/lm7171-6627103.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "IC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TI National Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "LM7171AIMX/NOPB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=4.79, 10=4.22, 50=4.22, 100=3.58, 1000=2.61, 10000=2.51 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "853"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "926-LM7171AIMX/NOPB"; VariantName = "[No Variations]"
+Added Component: Designator=C9(Case-B)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Tantalum-Capacitors_Hunan-Xiangyee-in-S-T-CA45-B025K106T_C119050.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C119050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Xiangyee in S&T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CA45-B025K106T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Case-B"; VariantName = "[No Variations]"
+Added Component: Designator=C10(Case-B)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Tantalum-Capacitors_Hunan-Xiangyee-in-S-T-CA45-B025K106T_C119050.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C119050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Xiangyee in S&T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CA45-B025K106T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Case-B"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Res-0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_RALEC-RTT011622FTH_C166338.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C166338"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "RALEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RTT011622FTH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=-9V Pin=C9-2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=TXD Pin=J3-3
+Added Pin To Net: NetName=RXD Pin=J3-4
+Added Pin To Net: NetName=NetR4_1 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=SCL Pin=U5-7
+Added Pin To Net: NetName=SDA Pin=U5-8
