@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\eSpark\Desktop\michaelquartey-sonographydevice-hw\Design_Files\Sonography_PCB.PcbDoc
-Date     : 12/20/2023
-Time     : 3:38:03 PM
+Date     : 1/24/2024
+Time     : 4:12:30 PM
 
 Processing Rule : Clearance Constraint (Gap=7mil) (All),(All)
 Rule Violations :0
@@ -54,4 +54,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
