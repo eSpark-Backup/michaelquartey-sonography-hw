@@ -1,8 +1,0 @@
-Change component parameters: Designator = "R14" ("R14"); Footprint = "RES-2512"; UniqueID = "\VHJJXVQU\KMBKWJFC" ("\VHJJXVQU\KMBKWJFC")
-Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC2512JK-0751RL_C136999.html"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C136999"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC2512JK-0751RL"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Package"; Value = "2512"; VariantName = "[No Variations]"

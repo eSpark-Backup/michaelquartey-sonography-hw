@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=RX_OUT_N Pin=U5-12
-Removed Pin From Net: NetName=RX_OUT_P Pin=U5-13
-Removed Pin From Net: NetName=Trigger_IN Pin=U5-14
-Added Pin To Net: NetName=RX_OUT_N Pin=U5-24
-Added Pin To Net: NetName=RX_OUT_P Pin=U5-25
-Added Pin To Net: NetName=Trigger_IN Pin=U5-26
-Added Member To Class: ClassName=U_Power_Section Member=Component U3 LT8331IMSE#TRPBF
-Added Rule: Name=Schematic Impedance Constraint
-Added Rule: Name=Schematic Matched Net Lengths
