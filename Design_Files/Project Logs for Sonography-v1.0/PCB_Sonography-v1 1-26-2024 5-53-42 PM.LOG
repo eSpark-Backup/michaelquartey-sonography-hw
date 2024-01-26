@@ -1,6 +1,0 @@
-Added Component: Designator=Ant1(ESP Patch Antenna)
-Add component (AddParameter): Name = "Item Type"; Value = "Antenna"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESP Patch Anttena"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=NetAnt1_ANT# Pin=Ant1-ANT#
-Added Pin To Net: NetName=GND Pin=Ant1-GND
-Added Member To Class: ClassName=U_Controller_Section Member=Component Ant1 ESP Patch Anttena
