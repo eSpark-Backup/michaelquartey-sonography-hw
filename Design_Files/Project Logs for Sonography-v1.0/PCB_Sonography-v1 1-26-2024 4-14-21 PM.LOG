@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Trigger_IN Pin=U5-23
+Removed Pin From Net: NetName=SCL Pin=U5-26
+Removed Pin From Net: NetName=SDA Pin=U5-27
+Added Pin To Net: NetName=Trigger_IN Pin=U5-14
